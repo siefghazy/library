@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1672068395 source:c:\users\20100\desktop\study\test\main.cpp
+	<bits/stdc++.h>
+
+1672071312 source:c:\users\20100\desktop\sief\20200242_20200158\test\main.cpp
+	<bits/stdc++.h>
+	"book.h"
+	"bst.h"
+
+1672069865 c:\users\20100\desktop\sief\20200242_20200158\test\book.h
+
+1672069865 c:\users\20100\desktop\sief\20200242_20200158\test\bst.h
+	"book.h"
+
+1672071312 source:c:\users\20100\desktop\20200242_20200158\20200242_20200158\test\main.cpp
+	<bits/stdc++.h>
+	"book.h"
+	"bst.h"
+
+1672069865 c:\users\20100\desktop\20200242_20200158\20200242_20200158\test\book.h
+
+1672069865 c:\users\20100\desktop\20200242_20200158\20200242_20200158\test\bst.h
+	"book.h"
+
