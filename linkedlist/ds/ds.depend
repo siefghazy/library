@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1671112192 source:c:\users\20100\desktop\ds\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
+1671113204 source:c:\users\hazem\downloads\ds_2\ds\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"linkedlist.h"
+	"book.h"
+
+1671113059 c:\users\hazem\downloads\ds_2\ds\linkedlist.h
+	"book.h"
+
+1671113314 c:\users\hazem\downloads\ds_2\ds\book.h
+	"linkedlist.h"
+	<string>
+
+1671114587 source:c:\users\20100\desktop\ds\ds\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"linkedlist.h"
+	"book.h"
+
+1671114241 c:\users\20100\desktop\ds\ds\linkedlist.h
+	"book.h"
+
+1671114025 c:\users\20100\desktop\ds\ds\book.h
+	"linkedlist.h"
+	<string>
+
